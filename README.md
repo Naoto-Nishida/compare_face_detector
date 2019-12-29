@@ -1,3 +1,6 @@
+cascadeの実装に手を加えてLBPも比較対象に入れました。
+あと、face_detectionだけじゃなくて全身detectionもできるようにしました。(識別器は自作。学習データはHarvardのデータセットからいただきました。)
+
 # 顔検出ライブラリ比較(haarcascade/HOG+SVM/CNN)
 
 大阪Pythonの会#06のハンズオン資料
